@@ -1,7 +1,8 @@
 # About me
 ## Owner of GBF 
 
-Mainly a JavaScript developer but I have some small projects in other languages
+Student engineer at CUFE
+Part time developer at GBF & DE
 
 ## Contact Me!
 
