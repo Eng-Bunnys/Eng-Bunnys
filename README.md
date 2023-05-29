@@ -1,8 +1,7 @@
 # About me
-## Owner of GBF 
 
-Student engineer at CUFE
-Part time developer at GBF & DE
+- Owner of GBF 
+- First Year Engineering Student
 
 ## Contact Me!
 
