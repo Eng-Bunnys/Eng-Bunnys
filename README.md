@@ -1,7 +1,7 @@
 # About me
 
 - Owner of GBF 
-- First Year Engineering Student
+- Second Year Engineering Student
 
 ## Contact Me!
 
