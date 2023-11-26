@@ -3,6 +3,10 @@
 - Owner of GBF 
 - Second Year Engineering Student
 
+# My Projects
+- [GBF](https://github.com/GBF-Nexus/Discord-Bot-Commands-and-Handler), a multi-purpose bot that's mainly made for Freebie Pings, meaning that whenever a paid game temporarily goes for free the bot notifies you
+- [GBF Handler](https://github.com/GBF-Nexus/Discord-Bot-Commands-and-Handler), a powerful and efficient command and event manager for your Discord bot
+- [Beastars Bot](https://github.com/GBF-Nexus/Beastars-Bot/tree/main), get access to certain Manga's without ever leaving Discord using the powerful Beastars Bot
 ## Contact Me!
 
 You can contact me through [my discord server](https://discord.gg/yrM7fhgNBW), my discord user: .bunnys
