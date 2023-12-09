@@ -1,6 +1,5 @@
 # About me
 
-- Owner of GBF 
 - Second Year Engineering Student
 
 # My Projects
