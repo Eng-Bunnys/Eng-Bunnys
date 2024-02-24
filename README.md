@@ -1,6 +1,7 @@
 # About me
 
 - Second Year Engineering Student
+- I like to think that I can code std::cout << "Hello, World?";
 
 # My Projects
 - [GBF](https://github.com/GBF-Nexus/Discord-Bot-Commands-and-Handler), a multi-purpose bot that's mainly made for Freebie Pings, meaning that whenever a paid game temporarily goes for free the bot notifies you
