@@ -1,6 +1,6 @@
 # About me
 
-- Second Year Engineering Student
+- Third Year Computer Engineering Student
 - I like to think that I can code std::cout << "Hello, World?";
 
 # My Projects
