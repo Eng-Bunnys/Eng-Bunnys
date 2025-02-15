@@ -21,6 +21,9 @@ Track your work time and get **activity metrics** that help improve your daily p
 ### 🔹 [AudioCapture](https://github.com/Eng-Bunnys/AudioCapture)
 A **real-time audio signal visualizer** built in Java, expandable with advanced signal processing features like **FFT analysis and equalization**.
 
+### 🔹 [Numerical Integrator](https://github.com/Eng-Bunnys/Numerical-Solutions/tree/main/Integrator) *(Paused)*
+Integrate any definite integral in no time with ease using your preferred method of integration, useful for teaching students the difference between each method by showing computation time & resource usage!
+
 ### 🔹 [Beastars Bot](https://github.com/GBF-Nexus/Beastars-Bot/tree/main) *(Paused)*
 Get instant access to certain **mangas directly within Discord**, making reading more convenient than ever.
 
