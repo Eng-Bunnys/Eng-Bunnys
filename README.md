@@ -1,17 +1,38 @@
-# About me
+# 👋 About Me
 
-- Second Year Computer Engineering Student
-- I like to think that I can code std::cout << "Hello, World?";
+I'm a **Second-Year Computer Engineering Student** with a passion for coding, problem-solving, and building useful tools. I like to think that I can code:
+```cpp
+std::cout << "Hello, World?";
+```
 
-# My Projects
-- [GBF](https://github.com/GBF-Nexus/Discord-Bot-Commands-and-Handler), a multi-purpose bot that's mainly made for Freebie Pings, meaning that whenever a paid game temporarily goes for free the bot notifies you
-- [GBF Handler](https://github.com/GBF-Nexus/Discord-Bot-Commands-and-Handler), a powerful and efficient command and event manager for your Discord bot
-- [GBF Timers](https://github.com/GBF-Nexus/GBF-Timers), Track your work time and get activity metrics that help improve your day to day life
-- [Beastars Bot](https://github.com/GBF-Nexus/Beastars-Bot/tree/main), get access to certain Manga's without ever leaving Discord using the powerful Beastars Bot
-## Contact Me!
+---
 
-You can contact me through [my discord server](https://discord.gg/yrM7fhgNBW), my discord user: .bunnys
+## 🚀 Featured Projects
 
--------------------------------------------------
+### 🔹 [GBF](https://github.com/Eng-Bunnys/GBF)
+A multi-purpose Discord bot that specializes in **Freebie Pings**—notifying you whenever a paid game goes free!
+
+### 🔹 [GBF Handler](https://github.com/Eng-Bunnys/GBF/tree/main/GBF%20Handler)
+A **powerful and efficient command and event manager** designed to optimize Discord bot development.
+
+### 🔹 [GBF Timers](https://github.com/Eng-Bunnys/GBF-Timers)
+Track your work time and get **activity metrics** that help improve your daily productivity.
+
+### 🔹 [AudioCapture](https://github.com/Eng-Bunnys/AudioCapture)
+A **real-time audio signal visualizer** built in Java, expandable with advanced signal processing features like **FFT analysis and equalization**.
+
+### 🔹 [Beastars Bot](https://github.com/GBF-Nexus/Beastars-Bot/tree/main) *(Paused)*
+Get instant access to certain **mangas directly within Discord**, making reading more convenient than ever.
+
+---
+
+## 📞 Contact Me!
+
+You can reach out to me through:
+- 💬 **Discord Server**: [Join Here](https://discord.gg/yrM7fhgNBW)
+- 📨 **Discord User**: `.bunnys`
+
+---
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/333644367539470337)](https://discord.com/users/333644367539470337)
--------------------------------------------------
+
