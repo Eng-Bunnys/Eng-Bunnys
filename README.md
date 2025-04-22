@@ -5,6 +5,8 @@ I'm a **Second-Year Computer Engineering Student** with a passion for coding, pr
 std::cout << "Hello, World?";
 ```
 
+API Contributer @Discord
+
 ---
 
 ## 🚀 Featured Projects
