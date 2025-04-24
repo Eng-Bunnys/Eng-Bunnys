@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm a **Second-Year Computer Engineering Student** with a passion for coding, problem-solving, and building useful tools. I like to think that I can code:
+I like building stuff and I think I can code?
 ```cpp
 std::cout << "Hello, World?";
 ```
